@@ -113,23 +113,6 @@
             </objects>
             <point key="canvasLocation" x="196.80000000000001" y="578.4133333333333"/>
         </scene>
-        <!--View Controller-->
-        <scene sceneID="epp-ID-QAY">
-            <objects>
-                <viewController id="joH-ZM-FtX" sceneMemberID="viewController">
-                    <layoutGuides>
-                        <viewControllerLayoutGuide type="top" id="T3p-lr-iF0"/>
-                        <viewControllerLayoutGuide type="bottom" id="WnA-nj-xhE"/>
-                    </layoutGuides>
-                    <view key="view" contentMode="scaleToFill" id="NCz-TO-yZo">
-                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                    </view>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="LLP-zW-wKz" userLabel="First Responder" sceneMemberID="firstResponder"/>
-            </objects>
-        </scene>
     </scenes>
     <resources>
         <image name="AlbertEinsteinStamp.jpg" width="1917" height="1344"/>
